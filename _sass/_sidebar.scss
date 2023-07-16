@@ -85,7 +85,7 @@
   img {
     max-width: 175px;
     border-radius: 50%;
-    border-image: url(calendula.png) 30 round;
+    border-image: url("/images/calendula.png") 30 round;
 
     @include breakpoint($large) {
       padding: 5px;
