@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Other Work"
-permalink: /other/
+title: "_no_Other Work"
+permalink: /_no_other/
 author_profile: true
 ---
 
