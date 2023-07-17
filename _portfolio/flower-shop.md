@@ -1,6 +1,6 @@
 ---
 title: "Flower Shop: A Discord Ticketing Bot"
-excerpt: "Short description of portfolio item number 1<br/><img src='https://erhuve.github.io/_pages/image-1.png'>"
+excerpt: "Short description of portfolio item number 1<br/><img class='five-three' src='https://erhuve.github.io/_pages/image-1.png'>"
 collection: portfolio
 ---
 

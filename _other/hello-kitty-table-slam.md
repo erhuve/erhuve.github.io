@@ -1,7 +1,7 @@
 ---
 title: "Hello Kitty Table Slam"
-excerpt: "Short description of portfolio item number 1<br/><img src='https://erhuve.github.io/_pages/image-7.png'>"
-collection: portfolio
+excerpt: "Short description of portfolio item number 1<br/><img class='five-three' src='https://erhuve.github.io/_pages/image-7.png'>"
+collection: other
 ---
 
 #### Play at <a href="https://erhuve.github.io/hello-kitty-table-slam/">https://erhuve.github.io/hello-kitty-table-slam/</a>

@@ -1,7 +1,7 @@
 ---
 title: "Music as Advocacy in the United States"
-excerpt: "Short description of portfolio item number 1<br/><img class="five-three" src='https://erhuve.github.io/_pages/image-5.png'>"
-collection: portfolio
+excerpt: "Short description of portfolio item number 1<br/><img class='five-three' src='https://erhuve.github.io/_pages/image-5.png'>"
+collection: other
 ---
 
 #### Find at <a href="https://confluence.gallatin.nyu.edu/context/interdisciplinary-seminar/music-as-advocacy-in-the-united-states">https://confluence.gallatin.nyu.edu/context/interdisciplinary-seminar/music-as-advocacy-in-the-united-states</a>

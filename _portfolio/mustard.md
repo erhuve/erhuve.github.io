@@ -1,6 +1,6 @@
 ---
 title: "Mustard: Find the right college for you"
-excerpt: "Short description of portfolio item number 1<br/><img class="five-three" src='https://erhuve.github.io/_pages/image-3.png'>"
+excerpt: "Short description of portfolio item number 1<br/><img class='five-three' src='https://erhuve.github.io/_pages/image-3.png'>"
 collection: portfolio
 ---
 

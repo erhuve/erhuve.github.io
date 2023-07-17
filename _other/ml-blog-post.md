@@ -1,7 +1,7 @@
 ---
 title: "ML Blog Post"
-excerpt: "Short description of portfolio item number 1<br/><img class="five-three" src='https://erhuve.github.io/_pages/image-8.png'>"
-collection: portfolio
+excerpt: "Short description of portfolio item number 1<br/><img class='five-three' src='https://erhuve.github.io/_pages/image-8.png'>"
+collection: other
 ---
 
 #### Read at <a href="https://erhuve.github.io/ml-blog-post/">https://erhuve.github.io/ml-blog-post/</a>

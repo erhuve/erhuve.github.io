@@ -1,7 +1,7 @@
 ---
 title: "rust-analyzer"
-excerpt: "Short description of portfolio item number 1<br/><img class="five-three" src='https://erhuve.github.io/_pages/image-6.png'>"
-collection: portfolio
+excerpt: "Short description of portfolio item number 1<br/><img class='five-three' src='https://erhuve.github.io/_pages/image-6.png'>"
+collection: other
 ---
 
 #### #12605 fix auto-links in doc comments: <a href="https://github.com/rust-lang/rust-analyzer/pull/12605">https://github.com/rust-lang/rust-analyzer/pull/12605</a>

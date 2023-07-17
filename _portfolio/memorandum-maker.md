@@ -1,6 +1,6 @@
 ---
 title: "Memorandum Maker"
-excerpt: "Short description of portfolio item number 1<br/><img class="five-three" src='https://erhuve.github.io/_pages/image-4.png'>"
+excerpt: "Short description of portfolio item number 1<br/><img class='five-three' src='https://erhuve.github.io/_pages/image-4.png'>"
 collection: portfolio
 ---
 
