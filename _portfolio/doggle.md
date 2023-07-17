@@ -1,6 +1,6 @@
 ---
 title: "Doggle: A WASM Game"
-excerpt: "Short description of portfolio item number 1<br/><img class="five-three" src='https://erhuve.github.io/_pages/image.png'>"
+excerpt: "Short description of portfolio item number 1<br/>"
 collection: portfolio
 ---
 
