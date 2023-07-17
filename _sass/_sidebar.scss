@@ -84,13 +84,13 @@
 
   img {
     max-width: 175px;
-    border-radius: 50%;
+    border-radius: 15%;
     // border: 5px solid #e21313;
-    border-image: url("https://erhuve.github.io/images/big_calendula.png") 36 36 round;
+    border-image: url("https://erhuve.github.io/images/calendula.png") 400 fill round;
 
     @include breakpoint($large) {
       padding: 5px;
-      border: 1px solid $border-color;
+      border: 10px solid transparent;
     }
   }
 }
