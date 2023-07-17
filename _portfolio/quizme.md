@@ -1,6 +1,6 @@
 ---
 title: "QuizMe: A Google Docs Extension"
-excerpt: "Short description of portfolio item number 1<br/><img class='five-three' src='https://erhuve.github.io/_pages/image-2.png'>"
+excerpt: "A Google Docs extension to generate quizzes<br/><img class='five-three' src='https://erhuve.github.io/_pages/image-2.png'>"
 collection: portfolio
 ---
 

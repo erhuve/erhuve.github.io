@@ -1,6 +1,6 @@
 ---
 title: "Music as Advocacy in the United States"
-excerpt: "Short description of portfolio item number 1<br/><img class='five-three' src='https://erhuve.github.io/_pages/image-5.png'>"
+excerpt: "A multimedia research project<br/><img class='five-three' src='https://erhuve.github.io/_pages/image-5.png'>"
 collection: other
 ---
 

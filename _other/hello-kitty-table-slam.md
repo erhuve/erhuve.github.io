@@ -1,6 +1,6 @@
 ---
 title: "Hello Kitty Table Slam"
-excerpt: "Short description of portfolio item number 1<br/><img class='five-three' src='https://erhuve.github.io/_pages/image-7.png'>"
+excerpt: "A cute little page<br/><img class='five-three' src='https://erhuve.github.io/_pages/image-7.png'>"
 collection: other
 ---
 

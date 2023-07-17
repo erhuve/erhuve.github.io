@@ -1,6 +1,6 @@
 ---
 title: "ML Blog Post"
-excerpt: "Short description of portfolio item number 1<br/><img class='five-three' src='https://erhuve.github.io/_pages/image-8.png'>"
+excerpt: "A quick blog for a class at NYU<br/><img class='five-three' src='https://erhuve.github.io/_pages/image-8.png'>"
 collection: other
 ---
 

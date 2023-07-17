@@ -1,6 +1,6 @@
 ---
 title: "rust-analyzer"
-excerpt: "Short description of portfolio item number 1<br/><img class='five-three' src='https://erhuve.github.io/_pages/image-6.png'>"
+excerpt: "Contribution to rust-analyzer<br/><img class='five-three' src='https://erhuve.github.io/_pages/image-6.png'>"
 collection: other
 ---
 

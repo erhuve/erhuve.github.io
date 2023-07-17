@@ -1,6 +1,6 @@
 ---
 title: "Doggle: A WASM Game"
-excerpt: "Short description of portfolio item number 1<br/><img class='five-three' src='https://erhuve.github.io/_pages/image-2.png'>"
+excerpt: "A Wordle-style dog-themed browser game in Rust and WASM<br/><img class='five-three' src='https://erhuve.github.io/_pages/image.png'>"
 collection: portfolio
 ---
 
