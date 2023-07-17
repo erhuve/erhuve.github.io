@@ -6,7 +6,7 @@ collection: portfolio
 
 #### #12605 fix auto-links in doc comments: <a href="https://github.com/rust-lang/rust-analyzer/pull/12605">https://github.com/rust-lang/rust-analyzer/pull/12605</a>
 
-![Screenshot of rust-analyzer Changelog #135](image-6.png)
+<img src='https://erhuve.github.io/_pages/image-6.png' alt="Screenshot of rust-analyzer changelog #135">
 
 <a href="https://rust-analyzer.github.io/thisweek/2022/06/27/changelog-135.html">https://rust-analyzer.github.io/thisweek/2022/06/27/changelog-135.html</a>
 

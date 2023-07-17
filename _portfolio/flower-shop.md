@@ -8,6 +8,6 @@ collection: portfolio
 
 #### Code at <a href="https://github.com/erhuve/flowershop">https://github.com/erhuve/flowershop</a>
 
-![Screenshot of Flower Shop](image-1.png)
+<img src='https://erhuve.github.io/_pages/image-1.png' alt="Screenshot of Flower Shop">
 
 A Discord bot with friendly interface and UX for users to open tickets to speak with moderators. I deployed this on Heroku and ran the bot 24/7 on the NYU Discord of 5k+ members.

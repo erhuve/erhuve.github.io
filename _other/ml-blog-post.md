@@ -6,6 +6,6 @@ collection: portfolio
 
 #### Read at <a href="https://erhuve.github.io/ml-blog-post/">https://erhuve.github.io/ml-blog-post/</a>
 
-![Jacob Peter Gowy's The Flight of Icarus](image-8.png)
+<img src='https://erhuve.github.io/_pages/image-8.png' alt="Jacob Peter Gowy's The Flight of Icarus">
 
 A quick blog post for the ML class at NYU, Fall 2022.

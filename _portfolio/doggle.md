@@ -8,6 +8,6 @@ collection: portfolio
 
 #### Play at <a href="https://erhuve.github.io/doggle_wasm/">https://erhuve.github.io/doggle_wasm/</a>
 
-![Screenshot of Doggle](image.png)
+<img src='https://erhuve.github.io/_pages/image.png' alt="Screenshot of Doggle">
 
 A Wordle-style dog-themed browser game, featuring images and dynamic word lengths. I made this to get started learning Rust and WASM.

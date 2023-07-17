@@ -12,6 +12,6 @@ collection: portfolio
 
 #### More at <a href="https://devpost.com/software/quizme-gp0erh">https://devpost.com/software/quizme-gp0erh</a>
 
-![Hero Image for QuizMe](image-2.png)
+<img src='https://erhuve.github.io/_pages/image-2.png' alt="Hero Image for QuizMe">
 
 A Google Docs add-on that empowers reading comprehension through generated quizzes. I did the UX research and design, and also coded the primary business-logic of retrieving and processing question-answer pairs, as well as the layout of the apps-script front end.
