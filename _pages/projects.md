@@ -11,7 +11,7 @@ author_profile: true
 
 #### Rust, WASM Bindgen
 
-#### Play at https://erhuve.github.io/doggle_wasm/
+#### Play at [https://erhuve.github.io/doggle_wasm/](https://erhuve.github.io/doggle_wasm/)
 
 ![Screenshot of Doggle](image.png)
 
@@ -23,7 +23,7 @@ A Wordle-style dog-themed browser game, featuring images and dynamic word length
 
 #### Python, UX Design
 
-#### Code at https://github.com/erhuve/flowershop
+#### Code at [https://github.com/erhuve/flowershop](https://github.com/erhuve/flowershop)
 
 ![Screenshot of Flower Shop](image-1.png)
 
@@ -39,7 +39,7 @@ A Discord bot with friendly interface and UX for users to open tickets to speak 
 
 #### Best Use of Google Cloud @ HackNYU 2022
 
-#### More at https://devpost.com/software/quizme-gp0erh
+#### More at [https://devpost.com/software/quizme-gp0erh](https://devpost.com/software/quizme-gp0erh)
 
 ![Hero Image for QuizMe](image-2.png)
 
@@ -51,7 +51,7 @@ A Google Docs add-on that empowers reading comprehension through generated quizz
 
 #### Python, Selenium, Firebase, Flask, HTML, CSS, JavaScript
 
-#### More at https://devpost.com/software/mustard
+#### More at [https://devpost.com/software/mustard](https://devpost.com/software/mustard)
 
 ![Screenshot of Mustard](image-3.png)
 
@@ -65,7 +65,7 @@ In this project, we scraped college data with Selenium and created a database wi
 
 #### Python, TensorFlow, Flask, HTML, CSS, JavaScript
 
-#### Code at https://github.com/erhuve/memorandum-maker
+#### Code at [https://github.com/erhuve/memorandum-maker](https://github.com/erhuve/memorandum-maker)
 
 ![Screenshot of Memorandum Maker](image-4.png)
 
