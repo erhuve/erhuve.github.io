@@ -9,11 +9,14 @@ main:
   # - title: "Teaching"
   #   url: /teaching/
 
+  - title: "Blog Posts"
+    url: /year-archive/
+
   - title: "Projects"
     url: /projects/
 
-  - title: "Blog Posts"
-    url: /year-archive/
+  - title: "Other Work"
+    url: /other/
 
   - title: "Resume"
     url: /files/resume.pdf

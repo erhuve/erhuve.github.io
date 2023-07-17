@@ -7,52 +7,53 @@ author_profile: true
 
 {% include base_path %}
 
-# Education
+## Doggle: A WASM Game
 
-- B.S. in GitHub, GitHub University, 2012
-- M.S. in Jekyll, GitHub University, 2014
-- Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+#### Rust, WASM Bindgen
 
-# Work experience
+#### Play at https://erhuve.github.io/doggle_wasm/
 
-- Summer 2015: Research Assistant
+![Screenshot of Doggle](image.png)
+A Wordle-style dog-themed browser game, featuring images and dynamic word lengths. I made this to get started learning Rust and WASM.
 
-  - Github University
-  - Duties included: Tagging issues
-  - Supervisor: Professor Git
+## Flower Shop: A Discord Ticketing Bot
 
-- Fall 2015: Research Assistant
-  - Github University
-  - Duties included: Merging pull requests
-  - Supervisor: Professor Hub
+#### Python, UX Design
 
-# Skills
+#### Code at https://github.com/erhuve/flowershop
 
-- Skill 1
-- Skill 2
-  - Sub-skill 2.1
-  - Sub-skill 2.2
-  - Sub-skill 2.3
-- Skill 3
+![Screenshot of Flower Shop](image-1.png)
+A Discord bot with friendly interface and UX for users to open tickets to speak with moderators. I deployed this on Heroku and ran the bot 24/7 on the NYU Discord of 5k+ members.
 
-# Publications
+## QuizMe: A Google Docs Extension
 
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+#### AppsScript, UX Design
+
+#### Best Potential Hack @ HackNYU 2022
+
+#### Best Use of Google Cloud @ HackNYU 2022
+
+#### More at https://devpost.com/software/quizme-gp0erh
+
+![Hero Image for QuizMe](image-2.png)
+A Google Docs add-on that empowers reading comprehension through generated quizzes. I did the UX research and design, and also coded the primary business-logic of retrieving and processing question-answer pairs, as well as the layout of the apps-script front end.
+
+## Mustard: Find the right college for you
+
+#### Python, Selenium, Firebase, Flask, HTML, CSS, JavaScript
+
+#### More at https://devpost.com/software/mustard
+
+![Screenshot of Mustard](image-3.png)
+The mustard seed comes in many colors- white, yellow, brown, black. Whether they are whole, ground, cracked, or bruised, mustard seeds can be mixed with all sorts of ingredients, be it vinegar, wine, salt, cumin, or even a Computer Science degree, to make mustard. And with different combinations, you can achieve different flavors from sweet to spicy. Students are a lot like mustard seeds, and we're on a mission to find the right recipe for you. College is a big milestone in one's life, and it's important we get it right. Compare colleges from a database of over 5000 U.S. schools and find the right college for you.
+
+In this project, we scraped college data with Selenium and created a database with Google Firebase. With this data, we wrote an algorithm to recommend colleges to a user based on various preferences they have. We deployed this into a web app with Flask. Enjoy!
+
+## Memorandum Maker
+
+#### Python, TensorFlow, Flask, HTML, CSS, JavaScript
+
+#### Code at https://github.com/erhuve/memorandum-maker
+
+![Screenshot of Memorandum Maker](image-4.png)
+A Flask webapp serving a RNN trained on emails from NYU sent during the emergence of the COVID-19 pandemic.
