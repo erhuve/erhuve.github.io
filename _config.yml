@@ -7,7 +7,7 @@
 
 # Site Settings
 locale: "en-US"
-title: "Raymond Luo / Flower Shop"
+title: "Always Remember to Meow (ARM)"
 title_separator: "-"
 name: &name "Raymond Luo"
 description: &description "just a guy"
@@ -79,10 +79,10 @@ analytics:
 # Site Author
 author:
   name: "Raymond Luo"
-  avatar: "profile.jpg"
-  bio: "🐱 just a guy, and Software Engineer"
+  avatar: "updateprofile.JPG"
+  bio: "🐱 SWE @ Culmination"
   location: "Jersey City, NJ"
-  employer: "TBD"
+  employer: "Culmination Bio"
   pubmed:
   googlescholar:
   email: "ray.luo@nyu.edu"
