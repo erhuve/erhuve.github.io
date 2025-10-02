@@ -79,13 +79,13 @@ analytics:
 # Site Author
 author:
   name: "Raymond Luo"
-  avatar: "updateprofile2.JPG"
-  bio: "🐱 SWE @ Culmination"
-  location: "Jersey City, NJ"
-  employer: "Culmination Bio"
+  avatar: "headshot.jpeg"
+  bio: "🐱 SWE @ Zo Computer"
+  location: "NYC"
+  employer: "Zo Computer"
   pubmed:
   googlescholar:
-  email: "ray.luo@nyu.edu"
+  email: "raymondhuangluo@gmail.com"
   researchgate: # example: "https://www.researchgate.net/profile/yourprofile"
   uri:
   bitbucket:
