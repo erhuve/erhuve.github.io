@@ -12,6 +12,7 @@ title_separator: "-"
 name: &name "Raymond Luo"
 description: &description "just a guy"
 url: https://raymondluo.dev # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+redirect_destination: &redirect_destination "https://flowershop.dev/"
 baseurl: "" # the subpath of your site, e.g. "/blog"
 repository: "erhuve/erhuve.github.io"
 teaser: # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -187,6 +188,11 @@ collections:
 
 # Defaults
 defaults:
+  # Send every rendered page and collection entry to the new homepage.
+  - scope:
+      path: ""
+    values:
+      redirect_to: *redirect_destination
   # _posts
   - scope:
       path: ""
@@ -275,6 +281,7 @@ whitelist:
   - jekyll-gist
   - jekyll-feed
   - jemoji
+  - jekyll-redirect-from
 
 # Archives
 #  Type

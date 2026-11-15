@@ -1,0 +1,20 @@
+---
+layout: null
+---
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Raymond Luo has moved</title>
+    <link rel="canonical" href="{{ site.redirect_destination | escape }}">
+    <meta http-equiv="refresh" content="0; url={{ site.redirect_destination | escape }}">
+    <meta name="robots" content="noindex, follow">
+    <script>
+      window.location.replace({{ site.redirect_destination | jsonify }});
+    </script>
+  </head>
+  <body>
+    <p>This site has moved to <a href="{{ site.redirect_destination | escape }}">flowershop.dev</a>.</p>
+  </body>
+</html>
